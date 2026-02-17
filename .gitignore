@@ -10,3 +10,6 @@ dist/
 build/
 .venv/
 venv/
+
+# ML artifacts (stored on Hugging Face)
+models/
